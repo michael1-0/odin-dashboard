@@ -228,6 +228,7 @@ body {
 }
 
 .main-section .cards-container .card {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
     height: 250px;
     background-color: white;
     border-radius: 8px;
@@ -241,6 +242,7 @@ body {
 
 /* Anouncements */
 .main-section .main-aside .announcements-card {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
     background-color: white;
     border-radius: 8px;
     padding: 30px;
@@ -269,6 +271,7 @@ body {
 
 .main-section .main-aside .trending .trending-wrapper {
     display: grid;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
     gap: 30px;
     padding: 30px;
     background-color: white;

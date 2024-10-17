@@ -1,1 +1,2 @@
 # odin-dashboard
+This is the final project for The Odin Intermediate HTML and CSS course, This project aims to further solidify my grid layout understanding by creating an admin dashboard with sidebars and headers and trying to recreate the project-design.png given by The Odin Project. I applied CSS practices such as using :root pseudo class and using grids for most of the containers. 
